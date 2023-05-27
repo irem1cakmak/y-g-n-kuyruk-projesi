@@ -1,0 +1,10 @@
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\bin\Debug\Eiçç.exe.config
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\bin\Debug\Eiçç.exe
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\bin\Debug\Eiçç.pdb
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\obj\Debug\Eiçç.csproj.AssemblyReference.cache
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\obj\Debug\Eiçç.Form1.resources
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\obj\Debug\Eiçç.Properties.Resources.resources
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\obj\Debug\Eiçç.csproj.GenerateResource.cache
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\obj\Debug\Eiçç.csproj.CoreCompileInputs.cache
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\obj\Debug\Eiçç.exe
+C:\Users\iremc\Downloads\Final1İremÇakmak203908028\Eiçç\Eiçç\obj\Debug\Eiçç.pdb
